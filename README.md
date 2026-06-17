@@ -1,3 +1,3 @@
 # add_achievements_g3n
 GJGJ
-nut
+nut_en
